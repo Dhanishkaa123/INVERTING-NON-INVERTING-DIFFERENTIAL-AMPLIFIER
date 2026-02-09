@@ -33,6 +33,8 @@ A circuit that amplifies that amplifies the difference between two input signals
 # MODEL GRAPH
 <img width="585" height="360" alt="image" src="https://github.com/user-attachments/assets/3cc336e5-ae5b-4863-b1e7-b37fdacffe09" />
 
+### PRACTICAL GRAPH
+
 ### CIRCUIT DIAGRAM
 
 ### INVERING AMPLIFIER
@@ -51,6 +53,8 @@ A circuit that amplifies that amplifies the difference between two input signals
 # MODEL GRAPH
 <img width="667" height="445" alt="image" src="https://github.com/user-attachments/assets/12729150-ffab-409c-ac6c-c1992b42b9c4" />
 
+### PRACTICAL GRAPH
+
 ### CIRCUIT DIAGRAM
 
 ### NON-INVERING AMPLIFIER
@@ -66,6 +70,8 @@ A circuit that amplifies that amplifies the difference between two input signals
 
 # MODEL GRAPH
 <img width="940" height="401" alt="image" src="https://github.com/user-attachments/assets/9a1a005e-447f-498f-b473-ebf591512669" />
+
+### PRACTICAL GRAPH
 
 ### CIRCUIT DIAGRAM
 
