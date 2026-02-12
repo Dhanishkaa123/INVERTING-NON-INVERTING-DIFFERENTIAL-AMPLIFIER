@@ -60,6 +60,9 @@ A circuit that amplifies that amplifies the difference between two input signals
 
 ### PRACTICAL GRAPH
 
+
+<img width="490" height="712" alt="image" src="https://github.com/user-attachments/assets/c107801b-9d1f-40b1-a75c-8ee8dbd3fdbb" />
+
 ### CIRCUIT DIAGRAM
 
 ### NON-INVERING AMPLIFIER
@@ -79,7 +82,6 @@ A circuit that amplifies that amplifies the difference between two input signals
 ### PRACTICAL GRAPH
 
 
-<img width="490" height="712" alt="image" src="https://github.com/user-attachments/assets/c107801b-9d1f-40b1-a75c-8ee8dbd3fdbb" />
 
 
 ### CIRCUIT DIAGRAM
