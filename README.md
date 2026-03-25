@@ -80,9 +80,7 @@ A circuit that amplifies that amplifies the difference between two input signals
 <img width="940" height="401" alt="image" src="https://github.com/user-attachments/assets/9a1a005e-447f-498f-b473-ebf591512669" />
 
 ### PRACTICAL GRAPH
-
-<img width="1148" height="1565" alt="image" src="https://github.com/user-attachments/assets/94991768-62a1-401e-beab-b7c4f177cff6" />
-
+<img width="413" height="458" alt="image" src="https://github.com/user-attachments/assets/e2108b2d-ec8d-479c-bbaa-d6047bf715b4" />
 
 
 ### CIRCUIT DIAGRAM
@@ -94,9 +92,8 @@ A circuit that amplifies that amplifies the difference between two input signals
 ### TABULATION
 | S.No | V1 (volts) | V2 (volts) | Vo (Theoretical) [V] | Vo (Practical) [V] |
 |------|-------------|-----------|-----------------------|---------------------|
-| 1    |    2.20     |     11.1  |          -10.9        |          -11        |
-| 2    |    3.3      |        7  |           3.7         |             3.7     |
-| 3    |    4.1      |     1.9   |        -2.2           |            -2.2     |
+| 1    |    5    |     3  |          20       |          20.01        |
+
 
 
 ### PROCEDURE:
